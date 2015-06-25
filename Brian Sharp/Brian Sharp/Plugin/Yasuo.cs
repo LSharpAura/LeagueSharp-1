@@ -8,6 +8,7 @@ using LeagueSharp.Common.Data;
 using SharpDX;
 using Color = System.Drawing.Color;
 using Orbwalk = BrianSharp.Common.Orbwalker;
+using ItemData = LeagueSharp.Common.Data.ItemData;
 
 namespace BrianSharp.Plugin
 {
