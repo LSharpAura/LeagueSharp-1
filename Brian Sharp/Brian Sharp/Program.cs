@@ -6,6 +6,7 @@ using LeagueSharp;
 using LeagueSharp.Common;
 using LeagueSharp.Common.Data;
 using Orbwalk = BrianSharp.Common.Orbwalker;
+using ItemData = LeagueSharp.Common.Data.ItemData;
 
 namespace BrianSharp
 {
